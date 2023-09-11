@@ -16,9 +16,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/moksh sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moksh sharma" height="30" width="40" /></a>
 <a href="https://instagram.com/moksh3341" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="moksh3341" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/study warriors" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="study warriors" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/STUDY WARRIORS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="study warriors" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/moksh081" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="moksh081" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/mokshsharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="mokshsharma" height="30" width="40" /></a>
 <a href="https://discord.gg/moksh081" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="moksh081" height="30" width="40" /></a>
 </p>
 
