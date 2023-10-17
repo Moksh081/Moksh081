@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moksh Sharma</h1>
-<h3 align="center">A passionate Full Stack web developer from India</h3>
+<h3 align="center">A Computer Engineering sophomore at TIET, Patiala, and I am very interested to learn about new technologies.</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moksh081&label=Profile%20views&color=0e75b6&style=flat" alt="moksh081" /> </p>
