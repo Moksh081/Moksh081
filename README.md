@@ -10,8 +10,8 @@
 
 - 📫 How to reach me **msharma2_be22@thapar.edu**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1wbelJPKnIAKlHRhScf038cWPxmNHuudk/view?usp=sharing](https://drive.google.com/file/d/1wbelJPKnIAKlHRhScf038cWPxmNHuudk/view?usp=sharing)
-
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1bG9kCFG7WHbp5BL-uA5BZXEFWskQPt3q?usp=drive_link]
+(https://drive.google.com/drive/folders/1bG9kCFG7WHbp5BL-uA5BZXEFWskQPt3q?usp=drive_link)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/moksh sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moksh sharma" height="30" width="40" /></a>
