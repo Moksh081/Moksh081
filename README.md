@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moksh081&label=Profile%20views&color=0e75b6&style=flat" alt="moksh081" /> </p>
 
-- 🌱 I’m currently learning **DSA , web dev**
+- 🌱 I’m currently learning **DSA , web dev ,ML**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Moksh081?tab=repositories](https://github.com/Moksh081?tab=repositories)
 
