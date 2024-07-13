@@ -46,10 +46,7 @@
     </a>&ensp;	
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
       <img src="https://github.com/MankiratSingh1315/MankiratSingh1315/assets/120726854/4f35c131-b0a2-4bfe-a53e-4c9addccfc8c" height=45/>
-    </a>&ensp;	
-    <a href="https://nodejs.org/en">
-      <img src="https://github.com/MankiratSingh1315/MankiratSingh1315/assets/120726854/a55faa23-c8b8-456e-866b-9f7ec6225a87" height=45/>
-    </a>&ensp;	
+    </a>&ensp;		
     <a href="https://www.mongodb.com/">
       <img src="https://github.com/MankiratSingh1315/MankiratSingh1315/assets/120726854/01ae1e20-f653-49f1-a6ef-064d868c4a8b" height=45/>
     </a>&ensp;	
@@ -66,13 +63,13 @@
       <img src="https://github.com/MankiratSingh1315/MankiratSingh1315/assets/120726854/53bfb558-774b-4d2b-8a01-da06f01f5998" height=45/>
     </a>&ensp;
      <a href="https://sass-lang.com/">
-      <img src="https://www.google.com/imgres?q=scss&imgurl=https%3A%2F%2Fi0.wp.com%2Ftechprimelab.com%2Fwp-content%2Fuploads%2F2020%2F06%2FSCSS-or-CSS.jpg%3Ffit%3D1024%252C576%26ssl%3D1&imgrefurl=https%3A%2F%2Ftechprimelab.com%2Fscss-or-css-which-is-better-find-out-here%2F&docid=FLmTW_TTiRX7JM&tbnid=S3zDSz7UmjIt0M&vet=12ahUKEwiP1L-xq6OHAxV3cGwGHUcRAOkQM3oECBcQAA..i&w=1024&h=576&hcb=2&ved=2ahUKEwiP1L-xq6OHAxV3cGwGHUcRAOkQM3oECBcQAA" height=45/>
+      <img src="" height=45/>
        </a>
     <a href="https://tailwindcss.com/">
-      <img src="https://www.google.com/imgres?q=tailwind&imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D100057231108477&imgrefurl=https%3A%2F%2Fwww.facebook.com%2Ftailwindcss%2F&docid=lklWkHFJWSrpuM&tbnid=7pvNKOSNc-e12M&vet=12ahUKEwjS-f3Rq6OHAxUfcmwGHTTaBWcQM3oECHUQAA..i&w=934&h=921&hcb=2&ved=2ahUKEwjS-f3Rq6OHAxUfcmwGHTTaBWcQM3oECHUQAA" height=45/>
+      <img src="" height=45/>
        </a>
       <a href="https://www.php.net/">
-      <img src="https://www.google.com/imgres?q=php&imgurl=https%3A%2F%2Fw7.pngwing.com%2Fpngs%2F185%2F655%2Fpng-transparent-logo-php-computer-icons-symbol-miscellaneous-emblem-text.png&imgrefurl=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dphp%2BLogo&docid=PsZqB9pDHPuTeM&tbnid=roCN7CziwHrO9M&vet=12ahUKEwjkyt__q6OHAxXvT2wGHcOKBNIQM3oECFIQAA..i&w=920&h=500&hcb=2&ved=2ahUKEwjkyt__q6OHAxXvT2wGHcOKBNIQM3oECFIQAA" height=45/>
+      <img src="" height=45/>
        </a>
     <a href="https://firebase.google.com/">
       <img src="https://github.com/MankiratSingh1315/MankiratSingh1315/assets/120726854/91bccba5-5b67-46bd-b14f-0b26b5ca1906" height=45/>
@@ -96,12 +93,4 @@
   </div>
 
     
-  [![Moksh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Moksh081&theme=tokyo-night)](https://github.com/Moksh081)
   
-</div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Moksh081/Moksh081/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Moksh081/Moksh081/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Moksh081/Moksh081/output/github-contribution-grid-snake.svg">
-</picture>
