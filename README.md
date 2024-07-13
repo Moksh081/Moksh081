@@ -63,7 +63,7 @@
       <img src="https://github.com/MankiratSingh1315/MankiratSingh1315/assets/120726854/53bfb558-774b-4d2b-8a01-da06f01f5998" height=45/>
     </a>&ensp;
      <a href="https://sass-lang.com/">
-      <img src="" height=45/>
+      <img src="![image](https://github.com/user-attachments/assets/1849fc31-7177-4443-aa7c-ce2177206ca0)" height=45/>
        </a>
     <a href="https://tailwindcss.com/">
       <img src="" height=45/>
