@@ -66,15 +66,20 @@
       <img src="https://github.com/user-attachments/assets/1849fc31-7177-4443-aa7c-ce2177206ca0" height=45/>
        </a>
     <a href="https://tailwindcss.com/">
-      <img src="" height=45/>
+      <img src="https://github.com/user-attachments/assets/0219751f-52f7-4dd7-8e97-4ceee86e4d66" height=45/>
        </a>
       <a href="https://www.php.net/">
-      <img src="" height=45/>
+      <img src="https://github.com/user-attachments/assets/2870d469-5e01-4b8c-ac9b-c7ca49ea704b" height=45/>
        </a>
     <a href="https://firebase.google.com/">
       <img src="https://github.com/MankiratSingh1315/MankiratSingh1315/assets/120726854/91bccba5-5b67-46bd-b14f-0b26b5ca1906" height=45/>
        </a>
-
+    <a href="https://www.tensorflow.org/">
+      <img src="https://github.com/user-attachments/assets/fc6c30b1-48da-45a5-b217-d4fbd364282d" height=45/>
+       </a>
+    <a href="https://streamlit.io/">
+      <img src="https://github.com/user-attachments/assets/148ba41f-9353-47ca-8c2e-d4ad131b996e" height=45/>
+       </a>
   </div>
   <br>
   <div>
