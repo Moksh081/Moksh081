@@ -14,6 +14,7 @@
   <a href="https://www.instagram.com/moksh3341/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
+
 ### 🎯 Achievements Unlocked
 - ✅ Research accepted in Springer LNNS proceedings
 - ✅ YOLO, TensorFlow, and Streamlit based AI projects
@@ -23,7 +24,7 @@
 
 ### ⚒️ Tools in My Stack (Floating Style!)
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px; margin-bottom: 40px;">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
@@ -38,13 +39,25 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/>
-</div>
+</p>
 
-<h3>🧠 AI Brain Simulation Zone</h3>
 
-<div style="display: flex; justify-content: center; align-items: center; margin-top: 10px;">
-  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200" />
-</div>
+### 🧠 AI Brain Simulation Zone
+
+<p align="center">
+  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="250" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="30"/>
+</p>
 
 ### 🔥 Let's Get to Some Stats
 
@@ -63,10 +76,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Moksh081&row=1&column=7&theme=darkhub" />
 </p>
 
+
 ### 📊 Languages & Time Trained
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moksh081&layout=compact&theme=radical&langs_count=10"/>
 </p>
-
 
