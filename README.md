@@ -17,11 +17,11 @@
 ---
 
 ### 🎯 Achievements Unlocked
-- ✅ Published Research in Springer LNNS
-- ✅ Finalist at NXP-AIM 2024
+- ✅ Accepted Research in Springer LNNS proceedings
 - ✅ AI Projects using YOLO, TensorFlow, Streamlit
 - ✅ NLP & GenAI Projects using Transformers
-- ✅ Full Stack AI Web Apps with Flask + React
+- ✅ NXP-AIM 2024 ( Regional finale)
+- ✅ Full Stack Web Apps with React
 
 ---
 
@@ -35,91 +35,8 @@
 
 ### ⚒️ Tools in My Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,pytorch,tensorflow,keras,flask,streamlit,pandas,numpy,react,html,css,js,mongodb,mysql,git,github&perline=9" />
-</p>
-
----
-
-### 🔥 Let's Get to Some Stats
-
-<table align="center">
-<tr>
-  <td>
-    <img src="https://github-readme-stats.vercel.app/api?username=Moksh081&show_icons=true&theme=gotham" />
-  </td>
-  <td>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Moksh081&theme=gotham&hide_border=false&border_radius=4.5&locale=en" />
-  </td>
-</tr>
-</table>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Moksh081&row=1&column=7&theme=darkhub" />
-</p>
-
----
-
-### 📊 Languages & Time Trained
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moksh081&layout=compact&theme=radical&langs_count=10"/>
-</p>
-
----
-
-### 🧠 AI Brain Simulation
-
-<p align="center">
-  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="300" alt="AI Brain"/>
-</p>
-
----
-
-### 🐍 Contribution Snake Game
-
-<p align="center">
-  <img src="https://github.com/Moksh081/Moksh081/raw/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-### ⚔️ My GitHub Profile RPG Card
-
-
-
-<h1 align="center">Hi, I am Moksh👋🏻</h1>
-<h2>A Computer Engineering Final Yr Studnet at<a href="https://www.thapar.edu">TIET, Patiala</a>, and I am very interested to learn about new technologies.</h2>
-<div style="display:inline-block">
-  <img src="https://komarev.com/ghpvc/?username=Moksh081&label=Profile%20views&color=0eed4a&style=for-the-badge" alt="Mankirat's profile views" />
-  <a href="https://wakatime.com/@6c4560a5-693d-422a-a2c0-518eec177837"><img src="https://wakatime.com/badge/user/6c4560a5-693d-422a-a2c0-518eec177837.svg?style=for-the-badge" alt="Total time coded since May 8 2023" /></a></br>
-  <a href="https://www.linkedin.com/in/moksh-sharma-62b1191a6/" style="decoration:none">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Moksh081" style="decoration:none">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="it is what it is😂">
-  </a>
-  <a href="mailto:msharma2_be22@thapar.edu" style="decoration:none">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/moksh3341/" style="decoration:none">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</div>
-<br>
-<div>
-  <h2>Something about me</h2>
-  <ul>
-    <li> 🪴 I am Gen AI enthusiast.</li>
-    <li> 🚀 Contributed in CSI'25, CRIS'24.</li>
-    <li> 😃 Authored Research Paper, SPRINGER LNNS ✅.</li>
-  </ul>
-</div>
-<br>
-<div>
-  <h2>Technologies and tools🤖</h2>
-  <div style="display:inline-block">
-    <h2>Technologies and Tools 🤖</h2>
+ <div style="display:inline-block">
+   
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center">
 
   <!-- Programming Languages -->
@@ -158,21 +75,44 @@
 
 </div>
   </div>
-  <br>
-  <div>
-    <h2>Let's get to some stats 😁</h2>
-    <p align="center">
-      <table>
-        <tr>
-      <td><a href="https://github.com/Moksh081" align="center"><img alt="STATS" src="https://github-readme-stats.vercel.app/api?username=Moksh081&show_icons=true&theme=gotham"></a></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Moksh081&theme=gotham&hide_border=false&border_radius=4.5&locale=en&date_format=&mode=daily&exclude_days=&sections=total%2Ccurrent%2Clongest&type=svg&background-type=gradient&properties=background"/></td>
-        </tr>
-      </table>
-  </p>
-    <p align="center">
-       <a href="https://github.com/Moksh081"><img height="auto" align="center" alt="Mankirat's github stats" 
-         src="https://github-profile-trophy.vercel.app/?username=Moksh081&row=1&column=7&theme=darkhub&margin-w=15e" /></a> 
-  </div>
+
+---
+
+### 🔥 Let's Get to Some Stats
+
+<table align="center">
+<tr>
+  <td>
+    <img src="https://github-readme-stats.vercel.app/api?username=Moksh081&show_icons=true&theme=gotham" />
+  </td>
+  <td>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Moksh081&theme=gotham&hide_border=false&border_radius=4.5&locale=en" />
+  </td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Moksh081&row=1&column=7&theme=darkhub" />
+</p>
+
+---
+
+### 📊 Languages & Time Trained
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moksh081&layout=compact&theme=radical&langs_count=10"/>
+</p>
+
+---
+
+### 🧠 AI Brain Simulation
+
+<p align="center">
+  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="300" alt="AI Brain"/>
+</p>
+
+---
+
 
     
   
