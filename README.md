@@ -1,3 +1,93 @@
+<h1 align="center">Hi, I'm Moksh 👋🏻</h1>
+
+<h2 align="center">🎓 Final Year Computer Engineering Student at <a href="https://www.thapar.edu">TIET, Patiala</a> | 🚀 AI & GenAI Enthusiast</h2>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Moksh081&label=Profile%20views&color=0eed4a&style=for-the-badge" alt="Profile views" />
+  <a href="https://wakatime.com/@6c4560a5-693d-422a-a2c0-518eec177837"><img src="https://wakatime.com/badge/user/6c4560a5-693d-422a-a2c0-518eec177837.svg?style=for-the-badge" alt="Wakatime" /></a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/moksh-sharma-62b1191a6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Moksh081"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:msharma2_be22@thapar.edu"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/moksh3341/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
+
+---
+
+### 🎯 Achievements Unlocked
+- ✅ Published Research in Springer LNNS
+- ✅ Finalist at NXP-AIM 2024
+- ✅ AI Projects using YOLO, TensorFlow, Streamlit
+- ✅ NLP & GenAI Projects using Transformers
+- ✅ Full Stack AI Web Apps with Flask + React
+
+---
+
+### 🧠 AI Journey Level: 77%
+
+<p align="center">
+  <img src="https://progress-bar.dev/77/?title=AI%20XP&width=400&color=21bf73&suffix=%25"/>
+</p>
+
+---
+
+### ⚒️ Tools in My Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,pytorch,tensorflow,keras,flask,streamlit,pandas,numpy,react,html,css,js,mongodb,mysql,git,github&perline=9" />
+</p>
+
+---
+
+### 🔥 Let's Get to Some Stats
+
+<table align="center">
+<tr>
+  <td>
+    <img src="https://github-readme-stats.vercel.app/api?username=Moksh081&show_icons=true&theme=gotham" />
+  </td>
+  <td>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Moksh081&theme=gotham&hide_border=false&border_radius=4.5&locale=en" />
+  </td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Moksh081&row=1&column=7&theme=darkhub" />
+</p>
+
+---
+
+### 📊 Languages & Time Trained
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moksh081&layout=compact&theme=radical&langs_count=10"/>
+</p>
+
+---
+
+### 🧠 AI Brain Simulation
+
+<p align="center">
+  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="300" alt="AI Brain"/>
+</p>
+
+---
+
+### 🐍 Contribution Snake Game
+
+<p align="center">
+  <img src="https://github.com/Moksh081/Moksh081/raw/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+### ⚔️ My GitHub Profile RPG Card
+
+
+
 <h1 align="center">Hi, I am Moksh👋🏻</h1>
 <h2>A Computer Engineering Final Yr Studnet at<a href="https://www.thapar.edu">TIET, Patiala</a>, and I am very interested to learn about new technologies.</h2>
 <div style="display:inline-block">
