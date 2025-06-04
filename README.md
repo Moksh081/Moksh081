@@ -42,44 +42,20 @@
 
 ### 🧠 AI Brain Simulation Zone
 
-<h2>🧠 AI Brain Simulation Zone</h2>
-
-<table>
-<tr>
-<td align="right" width="40%">
-  
-<!-- Left Icons Random-ish Layout -->
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
-  <br><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
-  <br><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="35"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="250" />
 </p>
 
-</td>
-
-<td align="center" width="20%">
-  
-<!-- Central Animated Laptop -->
-<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200"/>
-
-</td>
-
-<td align="left" width="40%">
-
-<!-- Right Icons Random-ish Layout -->
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50"/>
-  <br><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40"/>
-  <br><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="30"/>
 </p>
-
-</td>
-</tr>
-</table>
 
 ### 🔥 Let's Get to Some Stats
 
@@ -98,12 +74,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Moksh081&row=1&column=7&theme=darkhub" />
 </p>
 
-
 ### 📊 Languages & Time Trained
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moksh081&layout=compact&theme=radical&langs_count=10"/>
 </p>
-
 
 
