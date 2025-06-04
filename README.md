@@ -15,54 +15,47 @@
 </p>
 
 ### 🎯 Achievements Unlocked
-- ✅ Accepted Research in Springer LNNS proceedings
-- ✅ AI Projects using YOLO, TensorFlow, Streamlit
+- ✅ Research accepted in Springer LNNS proceedings
+- ✅ YOLO, TensorFlow, and Streamlit based AI projects
 - ✅ NLP & GenAI Projects using Transformers
-- ✅ NXP-AIM 2024 ( Regional finale)
-- ✅ Full Stack Web Apps with React
+- ✅ Finalist at NXP-AIM 2024 (Regional Finale)
+- ✅ Full Stack Web Apps using React + Flask
 
-### ⚒️ Tools in My Stack
+### ⚒️ Tools in My Stack (Floating Style!)
 
- <div style="display:inline-block">
-   
-<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center">
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/>
+</p>
 
-  <!-- Programming Languages -->
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+### 🧠 AI Brain Simulation Zone
 
-  <!-- Python Libraries -->
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="250" />
+</p>
 
-  <!-- Data/ML/AI -->
-  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=apachenetbeanside&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-1B1F23?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Generative%20AI-000000?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NLP-ff4088?style=for-the-badge&logo=readthedocs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ASR-1D222D?style=for-the-badge&logo=speechrecognition&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data%20Scientist-3C873A?style=for-the-badge&logo=databricks&logoColor=white"/>
-
-  <!-- Web Dev -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-  <!-- Others -->
-  <img src="https://img.shields.io/badge/Researcher-800000?style=for-the-badge&logo=googlescholar&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-
-</div>
-  </div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="30"/>
+</p>
 
 ### 🔥 Let's Get to Some Stats
 
@@ -81,17 +74,12 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Moksh081&row=1&column=7&theme=darkhub" />
 </p>
 
+
 ### 📊 Languages & Time Trained
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moksh081&layout=compact&theme=radical&langs_count=10"/>
 </p>
 
-### 🧠 AI Brain Simulation
 
-<p align="center">
-  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="300" alt="AI Brain"/>
-</p>
 
-    
-  
