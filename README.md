@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Moksh 👋🏻</h1>
 
-<h2 align="center">🎓 Final Year Computer Engineering Student at <a href="https://www.thapar.edu">TIET, Patiala</a> | 🚀 AI & GenAI Enthusiast</h2>
+<h2 align="center">🎓 Final Year Computer Engineering Student at <a href="https://www.thapar.edu">TIET, Patiala</a> | 🚀 AI & ML Enthusiast</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Moksh081&label=Profile%20views&color=0eed4a&style=for-the-badge" alt="Profile views" />
@@ -14,24 +14,12 @@
   <a href="https://www.instagram.com/moksh3341/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
----
-
 ### 🎯 Achievements Unlocked
 - ✅ Accepted Research in Springer LNNS proceedings
 - ✅ AI Projects using YOLO, TensorFlow, Streamlit
 - ✅ NLP & GenAI Projects using Transformers
 - ✅ NXP-AIM 2024 ( Regional finale)
 - ✅ Full Stack Web Apps with React
-
----
-
-### 🧠 AI Journey Level: 77%
-
-<p align="center">
-  <img src="https://progress-bar.dev/77/?title=AI%20XP&width=400&color=21bf73&suffix=%25"/>
-</p>
-
----
 
 ### ⚒️ Tools in My Stack
 
@@ -76,8 +64,6 @@
 </div>
   </div>
 
----
-
 ### 🔥 Let's Get to Some Stats
 
 <table align="center">
@@ -95,24 +81,17 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Moksh081&row=1&column=7&theme=darkhub" />
 </p>
 
----
-
 ### 📊 Languages & Time Trained
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moksh081&layout=compact&theme=radical&langs_count=10"/>
 </p>
 
----
-
 ### 🧠 AI Brain Simulation
 
 <p align="center">
   <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="300" alt="AI Brain"/>
 </p>
-
----
-
 
     
   
