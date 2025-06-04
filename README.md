@@ -14,42 +14,47 @@
   <a href="https://www.instagram.com/moksh3341/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
+<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 60px; flex-wrap: wrap;">
 
-### 🎯 Achievements Unlocked
-- ✅ Research accepted in Springer LNNS proceedings
-- ✅ YOLO, TensorFlow, and Streamlit based AI projects
-- ✅ NLP & GenAI Projects using Transformers
-- ✅ Finalist at NXP-AIM 2024 (Regional Finale)
-- ✅ Full Stack Web Apps using React + Flask
-
-### 🧠 AI Brain Simulation Zone
-<div style="display: flex; align-items: center; justify-content: center; gap: 80px;">
-
-  <!-- Left Side Icons Grid (3 columns) -->
-  <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/>
+  <!-- Left: Achievements Section -->
+  <div style="flex: 1; min-width: 300px;">
+    <h3>🎯 Achievements Unlocked</h3>
+    <ul>
+      <li>✅ Research accepted in Springer LNNS proceedings</li>
+      <li>✅ YOLO, TensorFlow, and Streamlit based AI projects</li>
+      <li>✅ NLP & GenAI Projects using Transformers</li>
+      <li>✅ Finalist at NXP-AIM 2024 (Regional Finale)</li>
+      <li>✅ Full Stack Web Apps using React + Flask</li>
+    </ul>
   </div>
 
-  <!-- Right Side PC Emoji -->
-  <div>
-    <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="150"/>
+  <!-- Right: AI Brain Simulation Zone -->
+  <div style="flex: 1; min-width: 300px;">
+    <h3>🧠 AI Brain Simulation Zone</h3>
+    <div style="display: flex; align-items: center; gap: 40px;">
+      <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/>
+      </div>
+      <div>
+        <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="150"/>
+      </div
+    </div>
   </div>
 
 </div>
-
 
 
 ### 🔥 Let's Get to Some Stats
